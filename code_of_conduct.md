@@ -10,7 +10,7 @@ To make clear what is expected, all staff, attendees, speakers, exhibitors, orga
 
 PyCon is dedicated to providing a positive conference experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
-Examples of behavior that contributes to creating a positive environment include:
+Examples of behaviors that contribute to creating a positive environment include:
 
 - Being kind to others
 - Behaving professionally
